@@ -10,4 +10,3 @@ echo "Hello world";
 test_foo()
 Ola !!!
 ?>
-
